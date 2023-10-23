@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=main
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ main\ here.\r\n\r\n\ @author\ Parsa\ S.\r\n\ @version\ Problem\ Set\ 4B,\ 19/10/2023\r\n\ \r\n\ \r\n\ Code\ notes\ for\ problem\ by\ number\:\r\n\ 1.\ Prints\ true/false\ depending\ on\ if\ word\ is\ palindrone\ (ignores\ all\ non-letter\ chars)\r\n\ 2.\ Prints\ sentence\ translated\ to\ piglatin\ in\ console\ (all\ letters\ become\ lowercase\ +\ only\ non-letter\ char\ allowed\ is\ "\ ")\r\n\ 3.\ Works.\ First\ Try.\ All\ others\ took\ at\ least\ half\ an\ hour\ (4\ \=\ 30\ min,\ 1\ \=\ 2\ hrs,\ 2\ \=\ 5+\ hrs)\r\n\ 3.\ a)\ Prints\ if\ numbers\ are\ in\ acending\ order\ (only\ works\ on\ ints).\ No\ clue\ what\ the\ "how\ many\ between\ two\ parameters"\ part\ means.\r\n\ 4.\ After\ struggling\ with\ understanding\ how\ the\ spacing\ should\ work,\ then\ deleting\ half\ my\ code,\ it\ prints\ a\ times\ table\ to\ the\ code\ if\ the\ int\ >\ 0.\r\n\ 4.\ a)\ If\ input\ <\ 1,\ it\ prints\ nothing.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2
